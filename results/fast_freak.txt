@@ -1,0 +1,87 @@
+#1 : LOAD IMAGE INTO BUFFER done
+FAST detector with n= 1824 keypoints in 1.25279 ms
+149 keypoints have been found on the  preceding vehicle
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 31.974 ms
+#3 : EXTRACT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+FAST detector with n= 1832 keypoints in 1.1561 ms
+152 keypoints have been found on the  preceding vehicle
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 41.7922 ms
+#3 : EXTRACT DESCRIPTORS done
+#4 : MATCH KEYPOINT DESCRIPTORS done
+98 matches found
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+FAST detector with n= 1810 keypoints in 0.951259 ms
+150 keypoints have been found on the  preceding vehicle
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 46.7487 ms
+#3 : EXTRACT DESCRIPTORS done
+#4 : MATCH KEYPOINT DESCRIPTORS done
+99 matches found
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+FAST detector with n= 1817 keypoints in 1.39648 ms
+155 keypoints have been found on the  preceding vehicle
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 32.1366 ms
+#3 : EXTRACT DESCRIPTORS done
+#4 : MATCH KEYPOINT DESCRIPTORS done
+91 matches found
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+FAST detector with n= 1793 keypoints in 0.92026 ms
+149 keypoints have been found on the  preceding vehicle
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 37.9602 ms
+#3 : EXTRACT DESCRIPTORS done
+#4 : MATCH KEYPOINT DESCRIPTORS done
+98 matches found
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+FAST detector with n= 1796 keypoints in 1.19895 ms
+149 keypoints have been found on the  preceding vehicle
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 31.3704 ms
+#3 : EXTRACT DESCRIPTORS done
+#4 : MATCH KEYPOINT DESCRIPTORS done
+85 matches found
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+FAST detector with n= 1788 keypoints in 0.852158 ms
+156 keypoints have been found on the  preceding vehicle
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 32.5941 ms
+#3 : EXTRACT DESCRIPTORS done
+#4 : MATCH KEYPOINT DESCRIPTORS done
+99 matches found
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+FAST detector with n= 1695 keypoints in 0.950576 ms
+150 keypoints have been found on the  preceding vehicle
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 35.8053 ms
+#3 : EXTRACT DESCRIPTORS done
+#4 : MATCH KEYPOINT DESCRIPTORS done
+102 matches found
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+FAST detector with n= 1749 keypoints in 4.42766 ms
+138 keypoints have been found on the  preceding vehicle
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 30.3526 ms
+#3 : EXTRACT DESCRIPTORS done
+#4 : MATCH KEYPOINT DESCRIPTORS done
+101 matches found
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+FAST detector with n= 1770 keypoints in 4.22993 ms
+143 keypoints have been found on the  preceding vehicle
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 33.3647 ms
+#3 : EXTRACT DESCRIPTORS done
+#4 : MATCH KEYPOINT DESCRIPTORS done
+105 matches found
+Press key to continue to next image

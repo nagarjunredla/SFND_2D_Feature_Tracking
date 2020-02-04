@@ -1,0 +1,87 @@
+#1 : LOAD IMAGE INTO BUFFER done
+SIFT detector with n= 1437 keypoints in 139.961 ms
+138 keypoints have been found on the  preceding vehicle
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 1.18575 ms
+#3 : EXTRACT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+SIFT detector with n= 1371 keypoints in 71.6129 ms
+132 keypoints have been found on the  preceding vehicle
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 1.09081 ms
+#3 : EXTRACT DESCRIPTORS done
+#4 : MATCH KEYPOINT DESCRIPTORS done
+64 matches found
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+SIFT detector with n= 1381 keypoints in 75.0895 ms
+124 keypoints have been found on the  preceding vehicle
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 1.14901 ms
+#3 : EXTRACT DESCRIPTORS done
+#4 : MATCH KEYPOINT DESCRIPTORS done
+66 matches found
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+SIFT detector with n= 1336 keypoints in 48.5071 ms
+138 keypoints have been found on the  preceding vehicle
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 1.13694 ms
+#3 : EXTRACT DESCRIPTORS done
+#4 : MATCH KEYPOINT DESCRIPTORS done
+63 matches found
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+SIFT detector with n= 1303 keypoints in 56.3621 ms
+134 keypoints have been found on the  preceding vehicle
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 1.09099 ms
+#3 : EXTRACT DESCRIPTORS done
+#4 : MATCH KEYPOINT DESCRIPTORS done
+67 matches found
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+SIFT detector with n= 1370 keypoints in 47.249 ms
+140 keypoints have been found on the  preceding vehicle
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 1.21744 ms
+#3 : EXTRACT DESCRIPTORS done
+#4 : MATCH KEYPOINT DESCRIPTORS done
+59 matches found
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+SIFT detector with n= 1396 keypoints in 49.0106 ms
+137 keypoints have been found on the  preceding vehicle
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 1.13428 ms
+#3 : EXTRACT DESCRIPTORS done
+#4 : MATCH KEYPOINT DESCRIPTORS done
+64 matches found
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+SIFT detector with n= 1382 keypoints in 55.659 ms
+148 keypoints have been found on the  preceding vehicle
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 1.21074 ms
+#3 : EXTRACT DESCRIPTORS done
+#4 : MATCH KEYPOINT DESCRIPTORS done
+64 matches found
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+SIFT detector with n= 1462 keypoints in 52.1663 ms
+159 keypoints have been found on the  preceding vehicle
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 1.27381 ms
+#3 : EXTRACT DESCRIPTORS done
+#4 : MATCH KEYPOINT DESCRIPTORS done
+67 matches found
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+SIFT detector with n= 1422 keypoints in 50.5894 ms
+137 keypoints have been found on the  preceding vehicle
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 1.10532 ms
+#3 : EXTRACT DESCRIPTORS done
+#4 : MATCH KEYPOINT DESCRIPTORS done
+80 matches found
+Press key to continue to next image

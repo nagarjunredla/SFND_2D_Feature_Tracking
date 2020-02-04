@@ -1,0 +1,87 @@
+#1 : LOAD IMAGE INTO BUFFER done
+Harris detector with n=115 keypoints in 14.3776 ms
+17 keypoints have been found on the  preceding vehicle
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 13.6436 ms
+#3 : EXTRACT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+Harris detector with n=98 keypoints in 9.25647 ms
+14 keypoints have been found on the  preceding vehicle
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 8.65077 ms
+#3 : EXTRACT DESCRIPTORS done
+#4 : MATCH KEYPOINT DESCRIPTORS done
+14 matches found
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+Harris detector with n=113 keypoints in 10.127 ms
+18 keypoints have been found on the  preceding vehicle
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 8.81991 ms
+#3 : EXTRACT DESCRIPTORS done
+#4 : MATCH KEYPOINT DESCRIPTORS done
+11 matches found
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+Harris detector with n=121 keypoints in 13.8235 ms
+21 keypoints have been found on the  preceding vehicle
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 9.01034 ms
+#3 : EXTRACT DESCRIPTORS done
+#4 : MATCH KEYPOINT DESCRIPTORS done
+16 matches found
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+Harris detector with n=160 keypoints in 14.3096 ms
+26 keypoints have been found on the  preceding vehicle
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 8.70471 ms
+#3 : EXTRACT DESCRIPTORS done
+#4 : MATCH KEYPOINT DESCRIPTORS done
+19 matches found
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+Harris detector with n=383 keypoints in 20.8794 ms
+43 keypoints have been found on the  preceding vehicle
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 9.32102 ms
+#3 : EXTRACT DESCRIPTORS done
+#4 : MATCH KEYPOINT DESCRIPTORS done
+22 matches found
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+Harris detector with n=85 keypoints in 23.3359 ms
+18 keypoints have been found on the  preceding vehicle
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 11.155 ms
+#3 : EXTRACT DESCRIPTORS done
+#4 : MATCH KEYPOINT DESCRIPTORS done
+22 matches found
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+Harris detector with n=210 keypoints in 20.8573 ms
+31 keypoints have been found on the  preceding vehicle
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 14.6814 ms
+#3 : EXTRACT DESCRIPTORS done
+#4 : MATCH KEYPOINT DESCRIPTORS done
+13 matches found
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+Harris detector with n=171 keypoints in 12.8381 ms
+26 keypoints have been found on the  preceding vehicle
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 9.30971 ms
+#3 : EXTRACT DESCRIPTORS done
+#4 : MATCH KEYPOINT DESCRIPTORS done
+24 matches found
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+Harris detector with n=281 keypoints in 32.2679 ms
+34 keypoints have been found on the  preceding vehicle
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 9.8527 ms
+#3 : EXTRACT DESCRIPTORS done
+#4 : MATCH KEYPOINT DESCRIPTORS done
+22 matches found
+Press key to continue to next image

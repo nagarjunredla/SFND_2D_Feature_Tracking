@@ -1,0 +1,87 @@
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detector with n=1370 keypoints in 14.5392 ms
+125 keypoints have been found on the  preceding vehicle
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 1.17976 ms
+#3 : EXTRACT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detector with n=1301 keypoints in 14.0559 ms
+118 keypoints have been found on the  preceding vehicle
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 0.55571 ms
+#3 : EXTRACT DESCRIPTORS done
+#4 : MATCH KEYPOINT DESCRIPTORS done
+115 matches found
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detector with n=1361 keypoints in 15.076 ms
+123 keypoints have been found on the  preceding vehicle
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 1.23484 ms
+#3 : EXTRACT DESCRIPTORS done
+#4 : MATCH KEYPOINT DESCRIPTORS done
+111 matches found
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detector with n=1358 keypoints in 12.9291 ms
+120 keypoints have been found on the  preceding vehicle
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 1.42513 ms
+#3 : EXTRACT DESCRIPTORS done
+#4 : MATCH KEYPOINT DESCRIPTORS done
+104 matches found
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detector with n=1333 keypoints in 22.8732 ms
+120 keypoints have been found on the  preceding vehicle
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 1.00454 ms
+#3 : EXTRACT DESCRIPTORS done
+#4 : MATCH KEYPOINT DESCRIPTORS done
+101 matches found
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detector with n=1284 keypoints in 11.9912 ms
+113 keypoints have been found on the  preceding vehicle
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 1.36009 ms
+#3 : EXTRACT DESCRIPTORS done
+#4 : MATCH KEYPOINT DESCRIPTORS done
+102 matches found
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detector with n=1322 keypoints in 15.1276 ms
+114 keypoints have been found on the  preceding vehicle
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 0.991415 ms
+#3 : EXTRACT DESCRIPTORS done
+#4 : MATCH KEYPOINT DESCRIPTORS done
+102 matches found
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detector with n=1366 keypoints in 15.3794 ms
+123 keypoints have been found on the  preceding vehicle
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 1.02492 ms
+#3 : EXTRACT DESCRIPTORS done
+#4 : MATCH KEYPOINT DESCRIPTORS done
+100 matches found
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detector with n=1389 keypoints in 11.2087 ms
+111 keypoints have been found on the  preceding vehicle
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 0.878397 ms
+#3 : EXTRACT DESCRIPTORS done
+#4 : MATCH KEYPOINT DESCRIPTORS done
+109 matches found
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detector with n=1339 keypoints in 14.949 ms
+112 keypoints have been found on the  preceding vehicle
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 0.928378 ms
+#3 : EXTRACT DESCRIPTORS done
+#4 : MATCH KEYPOINT DESCRIPTORS done
+100 matches found
+Press key to continue to next image

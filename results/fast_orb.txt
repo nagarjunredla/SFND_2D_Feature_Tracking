@@ -1,0 +1,87 @@
+#1 : LOAD IMAGE INTO BUFFER done
+FAST detector with n= 1824 keypoints in 1.39386 ms
+149 keypoints have been found on the  preceding vehicle
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 1.10774 ms
+#3 : EXTRACT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+FAST detector with n= 1832 keypoints in 1.06613 ms
+152 keypoints have been found on the  preceding vehicle
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 0.97708 ms
+#3 : EXTRACT DESCRIPTORS done
+#4 : MATCH KEYPOINT DESCRIPTORS done
+118 matches found
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+FAST detector with n= 1810 keypoints in 0.860935 ms
+150 keypoints have been found on the  preceding vehicle
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 1.02765 ms
+#3 : EXTRACT DESCRIPTORS done
+#4 : MATCH KEYPOINT DESCRIPTORS done
+123 matches found
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+FAST detector with n= 1817 keypoints in 0.971933 ms
+155 keypoints have been found on the  preceding vehicle
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 0.884941 ms
+#3 : EXTRACT DESCRIPTORS done
+#4 : MATCH KEYPOINT DESCRIPTORS done
+112 matches found
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+FAST detector with n= 1793 keypoints in 0.862456 ms
+149 keypoints have been found on the  preceding vehicle
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 0.885248 ms
+#3 : EXTRACT DESCRIPTORS done
+#4 : MATCH KEYPOINT DESCRIPTORS done
+126 matches found
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+FAST detector with n= 1796 keypoints in 0.986782 ms
+149 keypoints have been found on the  preceding vehicle
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 1.23974 ms
+#3 : EXTRACT DESCRIPTORS done
+#4 : MATCH KEYPOINT DESCRIPTORS done
+106 matches found
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+FAST detector with n= 1788 keypoints in 1.28811 ms
+156 keypoints have been found on the  preceding vehicle
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 0.954229 ms
+#3 : EXTRACT DESCRIPTORS done
+#4 : MATCH KEYPOINT DESCRIPTORS done
+122 matches found
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+FAST detector with n= 1695 keypoints in 1.37441 ms
+150 keypoints have been found on the  preceding vehicle
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 1.10692 ms
+#3 : EXTRACT DESCRIPTORS done
+#4 : MATCH KEYPOINT DESCRIPTORS done
+122 matches found
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+FAST detector with n= 1749 keypoints in 0.957258 ms
+138 keypoints have been found on the  preceding vehicle
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 0.797051 ms
+#3 : EXTRACT DESCRIPTORS done
+#4 : MATCH KEYPOINT DESCRIPTORS done
+123 matches found
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+FAST detector with n= 1770 keypoints in 4.20628 ms
+143 keypoints have been found on the  preceding vehicle
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 0.918546 ms
+#3 : EXTRACT DESCRIPTORS done
+#4 : MATCH KEYPOINT DESCRIPTORS done
+119 matches found
+Press key to continue to next image

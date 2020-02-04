@@ -1,0 +1,87 @@
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE detector with n= 1351 keypoints in 63.5781 ms
+166 keypoints have been found on the  preceding vehicle
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 1.39616 ms
+#3 : EXTRACT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE detector with n= 1327 keypoints in 55.7515 ms
+157 keypoints have been found on the  preceding vehicle
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 1.38228 ms
+#3 : EXTRACT DESCRIPTORS done
+#4 : MATCH KEYPOINT DESCRIPTORS done
+137 matches found
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE detector with n= 1311 keypoints in 56.4283 ms
+161 keypoints have been found on the  preceding vehicle
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 1.31202 ms
+#3 : EXTRACT DESCRIPTORS done
+#4 : MATCH KEYPOINT DESCRIPTORS done
+125 matches found
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE detector with n= 1351 keypoints in 52.5334 ms
+155 keypoints have been found on the  preceding vehicle
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 1.26352 ms
+#3 : EXTRACT DESCRIPTORS done
+#4 : MATCH KEYPOINT DESCRIPTORS done
+129 matches found
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE detector with n= 1360 keypoints in 54.4458 ms
+163 keypoints have been found on the  preceding vehicle
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 1.43983 ms
+#3 : EXTRACT DESCRIPTORS done
+#4 : MATCH KEYPOINT DESCRIPTORS done
+129 matches found
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE detector with n= 1347 keypoints in 56.6068 ms
+164 keypoints have been found on the  preceding vehicle
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 1.34272 ms
+#3 : EXTRACT DESCRIPTORS done
+#4 : MATCH KEYPOINT DESCRIPTORS done
+131 matches found
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE detector with n= 1363 keypoints in 52.3056 ms
+173 keypoints have been found on the  preceding vehicle
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 1.38394 ms
+#3 : EXTRACT DESCRIPTORS done
+#4 : MATCH KEYPOINT DESCRIPTORS done
+132 matches found
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE detector with n= 1331 keypoints in 54.6089 ms
+175 keypoints have been found on the  preceding vehicle
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 1.42415 ms
+#3 : EXTRACT DESCRIPTORS done
+#4 : MATCH KEYPOINT DESCRIPTORS done
+142 matches found
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE detector with n= 1357 keypoints in 58.8208 ms
+177 keypoints have been found on the  preceding vehicle
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 1.38615 ms
+#3 : EXTRACT DESCRIPTORS done
+#4 : MATCH KEYPOINT DESCRIPTORS done
+146 matches found
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE detector with n= 1331 keypoints in 51.8831 ms
+179 keypoints have been found on the  preceding vehicle
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 1.40252 ms
+#3 : EXTRACT DESCRIPTORS done
+#4 : MATCH KEYPOINT DESCRIPTORS done
+144 matches found
+Press key to continue to next image

@@ -1,0 +1,87 @@
+#1 : LOAD IMAGE INTO BUFFER done
+ORB detector with n= 500 keypoints in 29.785 ms
+92 keypoints have been found on the  preceding vehicle
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 35.1622 ms
+#3 : EXTRACT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+ORB detector with n= 500 keypoints in 14.084 ms
+102 keypoints have been found on the  preceding vehicle
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 38.5068 ms
+#3 : EXTRACT DESCRIPTORS done
+#4 : MATCH KEYPOINT DESCRIPTORS done
+42 matches found
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+ORB detector with n= 500 keypoints in 6.72491 ms
+106 keypoints have been found on the  preceding vehicle
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 39.8282 ms
+#3 : EXTRACT DESCRIPTORS done
+#4 : MATCH KEYPOINT DESCRIPTORS done
+36 matches found
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+ORB detector with n= 500 keypoints in 12.7581 ms
+113 keypoints have been found on the  preceding vehicle
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 52.3578 ms
+#3 : EXTRACT DESCRIPTORS done
+#4 : MATCH KEYPOINT DESCRIPTORS done
+44 matches found
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+ORB detector with n= 500 keypoints in 6.47839 ms
+109 keypoints have been found on the  preceding vehicle
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 29.2249 ms
+#3 : EXTRACT DESCRIPTORS done
+#4 : MATCH KEYPOINT DESCRIPTORS done
+47 matches found
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+ORB detector with n= 500 keypoints in 7.33543 ms
+125 keypoints have been found on the  preceding vehicle
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 29.3752 ms
+#3 : EXTRACT DESCRIPTORS done
+#4 : MATCH KEYPOINT DESCRIPTORS done
+44 matches found
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+ORB detector with n= 500 keypoints in 8.54228 ms
+130 keypoints have been found on the  preceding vehicle
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 38.9625 ms
+#3 : EXTRACT DESCRIPTORS done
+#4 : MATCH KEYPOINT DESCRIPTORS done
+51 matches found
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+ORB detector with n= 500 keypoints in 8.5614 ms
+129 keypoints have been found on the  preceding vehicle
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 45.6037 ms
+#3 : EXTRACT DESCRIPTORS done
+#4 : MATCH KEYPOINT DESCRIPTORS done
+52 matches found
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+ORB detector with n= 500 keypoints in 10.0117 ms
+127 keypoints have been found on the  preceding vehicle
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 35.1868 ms
+#3 : EXTRACT DESCRIPTORS done
+#4 : MATCH KEYPOINT DESCRIPTORS done
+48 matches found
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+ORB detector with n= 500 keypoints in 11.8614 ms
+128 keypoints have been found on the  preceding vehicle
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 32.7662 ms
+#3 : EXTRACT DESCRIPTORS done
+#4 : MATCH KEYPOINT DESCRIPTORS done
+56 matches found
+Press key to continue to next image
